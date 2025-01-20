@@ -97,7 +97,6 @@ The heatmap visualizes the relationships between various features. Strong correl
 
 - Features that are highly correlated can provide insights into which factors might influence an individual’s creditworthiness.
 
-![Correlation Matrix](images/correlation_matrix.png)  *(You can replace the image path if you generate and save the correlation heatmap image)*
 
 ## Contributing
 
